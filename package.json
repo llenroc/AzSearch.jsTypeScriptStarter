@@ -1,0 +1,20 @@
+{
+  "name": "azsearchtstemplate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devpack": "webpack -d",
+    "prodpack": "webpack -p"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react-dom": "^0.14.23",
+    "awesome-typescript-loader": "^3.1.2",
+    "typescript": "^2.2.1",
+    "webpack": "^2.2.1",
+    "azsearch.js": "0.0.11",
+    "redux": "3.6.0"
+  }
+}
